@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FocusOnWorkManager</string>
+    <string name="label_start_service">Start Service</string>
+    <string name="label_stop_service">Stop Service</string>
+</resources>
